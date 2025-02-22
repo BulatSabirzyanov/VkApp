@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cast_configuration
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <cast_app_id android:value="CC1AD845" />
+</cast_configuration>
